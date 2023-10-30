@@ -1,0 +1,10 @@
+D:\Winform\QuanLyTienDien\QuanLyTienDien\bin\Debug\QuanLyTienDien.exe.config
+D:\Winform\QuanLyTienDien\QuanLyTienDien\bin\Debug\QuanLyTienDien.exe
+D:\Winform\QuanLyTienDien\QuanLyTienDien\bin\Debug\QuanLyTienDien.pdb
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.csproj.AssemblyReference.cache
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.Form1.resources
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.Properties.Resources.resources
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.csproj.GenerateResource.cache
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.exe
+D:\Winform\QuanLyTienDien\QuanLyTienDien\obj\Debug\QuanLyTienDien.pdb
